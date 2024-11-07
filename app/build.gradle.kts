@@ -55,4 +55,7 @@ dependencies {
 
     implementation(libs.bundles.compose)
     debugImplementation(libs.compose.uitooling)
+
+    implementation(libs.androidx.activity.ktx)
+    implementation(libs.androidx.activity.compose)
 }
